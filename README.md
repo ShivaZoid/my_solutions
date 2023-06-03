@@ -19,5 +19,7 @@ i love you
 ### Sample Output
 hello python i love you
 
-[__Решение__]()
+
+[__Решение__](https://github.com/ShivaZoid/my_solutions/blob/main/stepik_by_Sergey_Balakirev/3_topic/3_1/7.py)
+
 </details>
