@@ -3,7 +3,7 @@
 ## 1) [__Добрый, добрый Python - обучающий курс от Сергея Балакирева__](https://stepik.org/course/100707/syllabus) на сайте Stepik 
 
 
-![alt text]([http://url/to/img.png](https://github.com/ShivaZoid/my_solutions/blob/main/stepik-certificate.jpg))
+![certificate]((https://github.com/ShivaZoid/my_solutions/blob/main/stepik-certificate.jpg))
 
 
 ## Решения начинаются с 3 темы
